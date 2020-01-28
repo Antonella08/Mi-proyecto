@@ -1,0 +1,102 @@
+h1 {
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+h2 {  
+    font: bold 14px sans-serif;
+}
+
+header, section, footer, aside, nav, article, hgroup {
+    display: block;
+}
+
+body {
+    text-align: center;
+    background: black;
+}
+
+.agrupar {
+    width: 1250px;
+    background: rgb(180, 178, 178);
+    border: 1px solid black;
+    margin:  15px auto;
+    
+}
+.cabecera{
+    background: grey;
+    padding: 20px;
+    border: 1px solid gray;
+}
+
+.cabecera h1{
+    text-align: left;
+}
+
+.menu{
+    background: burlywood;
+    padding: 20px;
+    text-align: left;
+    margin:unset;
+
+}
+
+.menu ul{
+    padding: 1px;
+    text-align: left;
+}
+
+.menu li{
+    list-style: none;
+    padding: 5px; 
+    font: bold  14px verdana;
+    display: inline-block;
+    
+}
+
+.seccion{
+    margin: 20px;
+    width: 800px;
+    float: left;
+}
+
+.columna{
+    width: 90px;
+    float: left;
+    margin: 20px 0;
+}
+
+.columna blockquote{
+    border: 1px solid  #999;
+    margin-bottom: 50px;
+    background: #fffbcc;
+    padding: 50px;
+    width: 250px;
+    margin: 10px;
+}
+
+.pie {
+    clear: both;
+    padding: 20px;
+    background: grey;
+}
+
+article{
+    background: #fffbcc;
+    padding: 20px;
+    border: 1px solid #999;
+    margin-bottom: 15px;
+}   
+
+article footer{
+    text-align: right;
+}
+
+time{
+    color: #999;
+}
+
+img{
+    width: 100px;
+}
