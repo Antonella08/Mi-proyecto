@@ -1,0 +1,24 @@
+Git (Software controlador de verciones, repocitorio de codigo en simpre palabras
+
+Bash Git 
+El git bash, es una herramienta de tipo consola que básicamente te permite manipular
+y gestionar todo el proceso a realizar con el proyecto.
+
+-para guardar los cambios en los archivos agregados con <GIT ADD
+-ver estado <GIT STATUS
+-para commitear <GIT COMMIT
+-para empezar a escribir despues de hacer commit <Presiono I> y Escape <Esc>
+(para guardar los cambios en la consola GIT) y <:wq
+-o <GIT COMMIT -M "" , para evitar el paso anterior
+-GIT BRANSH ver la verción en donde estas trabajando (siempre es master)
+-Si queremos una version alternativa se crea <Git Branch Login
+-Para cambiar de una version a otra , osea desde "MASTER" a "LOGIN"
+usamos <GIT checkaout LOGIN
+-Para recuperar el trabajo que borramos en nuestro escritorio , comiamos la direccion que 
+tenemos en el repocitorio GITHUB, vamos al GITBASH y vamos a CD desktop, luego GIT CLONE y 
+pegamos la direccion obtenia anteriormente, se nos crea la carpeta y tenemos todo el trabajo 
+que perdinos nuevamente en nuestras pc.
+
+<--/Un Plugin es un fragmento o componente de código hecho para ampliar 
+las funciones de un programa o de una herramienta-->
+
